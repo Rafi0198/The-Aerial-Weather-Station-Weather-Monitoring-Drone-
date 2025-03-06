@@ -1,0 +1,2 @@
+# Medicine-Relief-Delivery-Drone-for-Flood-Affected-Region-
+A fully autonomous Radiolink Pixhawk based drone is built &amp; programmed featuring Auto-Flight, Return to Launch (RTL), Geo fence, Radio Failsafe &amp; a cheap ESP8266 based WiFi telemetry. The attached bottom plate includes the delivery mechanism designed with micro-servo which is assigned to a radio channel that can be triggered to drop the payload.
